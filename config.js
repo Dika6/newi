@@ -1,14 +1,14 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['380944182435', '436504463151111']
+global.owner = ['6281252848955']
 global.autoread = false
 global.selfmode = false
 global.thumb = './thumb/itsuki.jpg'
-global.fakereplyt = 'Rikka-Botz WhatsApp'
+global.fakereplyt = 'SHOLEH GANS'
 global.mess = {
 group : {
 welcome : `Welcome @user\n\nSelamat datang di grup @subject`,
-bye : `Bye @user`,
+bye : `Selamat tinggal @user`,
 promote: '@user Sekarang admin!',
 demote: '@user Sekarang bukan admin!'
 },
@@ -17,7 +17,7 @@ success: 'Sukses...'
 }
 global.server = false
 global.prefix = '🐤'
-global.author = '@caliph91_'
+global.author = '@naaaanndo'
 global.packname = 'WhatsApp Bot'
 
 
@@ -36,13 +36,13 @@ global.APIs = { // API Prefix
 }
 
 global.APIKeys = { // APIKey Here
-   'http://api.vhtear.com': 'YOUR-APIKEY',
-   'https://api.lolhuman.xyz': 'YOUR-APIKEY',
-  'https://api.xteam.xyz': 'YOUR-APIKEY'
+   'http://api.vhtear.com': 'NOT-PREMIUM',
+   'https://api.lolhuman.xyz': '1fdcdd479b5c1f5a32565d1a',
+  'https://api.xteam.xyz': '533cd93c6e5d4e4f'
 ,
-  'https://api.zeks.me': 'rikkabotwa',
-  'https://rikka-api.xyz': 'beta',
-   'https://api.caliph71.xyz': 'beta'
+  'https://api.zeks.me': 'nandowangy',
+  'https://rikka-api.xyz': 'mRQLcpUQ',
+   'https://api.caliph71.xyz': 'mRQLcpUQ'
 }
 
 let file = require.resolve(__filename)
